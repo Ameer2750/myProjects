@@ -1,0 +1,3 @@
+# myProjects
+
+Daily Journal project
